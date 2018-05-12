@@ -1,0 +1,24 @@
+_repo: Lessons-on-Manners-for-School-and-Home-Use_33188
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 33188-h/images/coverimage.jpg
+creator:
+  author:
+    agent_name: Wiggin, Edith E.
+    gutenberg_agent_id: '36253'
+    url: http://www.gutenberg.org/2009/agents/36253
+description: ''
+gutenberg_issued: '2010-07-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33188'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Etiquette'
+- !lcc 'BJ'
+title: Lessons on Manners for School and Home Use
+url: http://www.gutenberg.org/ebooks/33188
